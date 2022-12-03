@@ -1,0 +1,7500 @@
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pRock
+1
+3
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pScissors
+3
+3
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pRock
+1
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pScissors vs pRock
+3
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pRock
+1
+3
+pScissors vs pPaper
+3
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pRock
+1
+3
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pScissors vs pPaper
+3
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pRock
+1
+3
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pScissors
+3
+3
+pScissors vs pScissors
+3
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pScissors vs pPaper
+3
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pScissors vs pScissors
+3
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pScissors vs pRock
+3
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pRock
+1
+3
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pRock
+1
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pRock
+1
+3
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pRock
+1
+3
+pRock vs pRock
+1
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pScissors
+1
+6
+pScissors vs pPaper
+3
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pRock vs pRock
+1
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pScissors vs pRock
+3
+0
+pPaper vs pRock
+2
+6
+pScissors vs pPaper
+3
+6
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pScissors vs pPaper
+3
+6
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pPaper vs pPaper
+2
+3
+pScissors vs pScissors
+3
+3
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pPaper
+1
+0
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pRock vs pScissors
+1
+6
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pPaper
+2
+3
+pRock vs pPaper
+1
+0
+pRock vs pPaper
+1
+0
+pPaper vs pPaper
+2
+3
+pScissors vs pRock
+3
+0
+pRock vs pPaper
+1
+0
+pPaper vs pScissors
+2
+0
+pPaper vs pScissors
+2
+0
+pScissors vs pRock
+3
+0
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
+pPaper vs pRock
+2
+6
+pPaper vs pScissors
+2
+0
+pRock vs pPaper
+1
+0
