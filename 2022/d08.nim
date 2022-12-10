@@ -3,90 +3,85 @@ import strutils, sequtils
 let input = readFile("data/8.txt")
 let rows = input.split("\n").mapIt(it.replace("\r", "")).filterIt(it != "")
 
-let rowHigh = rows[0].high
-let colHigh = rows.high
-
-echo rowHigh
-echo colHigh
-
-type
-    # this could be optimized into an int16
-    View = object
-        left, right, down, up: int
-        visible: bool
+let width = rows[0].len
+let height = rows.len
 
 proc digit(x, y: int): int =
-    if x in 0 .. rowHigh and y in 0 .. colHigh:
-        return ord(rows[y][x]) - ord('0')
-    else:
-        # zero
-        discard
+    if x < 0 or x >= width or y < 0 or y >= height:
+        return 0
 
-var views = newSeqWith(colHigh + 1, newSeq[View](rowHigh + 1))
+    rows[y][x].ord() - '0'.ord()
 
-proc view(x, y: int): View =
-    if x in 0 .. rowHigh and y in 0 .. colHigh:
-        return views[y][x]
-    else:
-        # default to zeroed out view
-        discard
+proc set[T](a: var openArray[T], s: Slice[int], v: T) =
+    for i in s:
+        a[i] = v
 
-# left -> right
-for y in 0 .. colHigh:
-    for x in 0 .. rowHigh:
-        let digit = digit(x - 1, y)
-        let highest = view(x - 1, y).left
+proc inc[T](a: var openArray[T], s: Slice[int], v: T) =
+    for i in s:
+        a[i] += v
 
-        views[y][x].left = max(digit, highest)
+# left, right, up, down
+var visibilities = newSeqWith(4, newSeqWith(height, newSeq[int](width)))
 
-# right -> left
-for y in 0 .. colHigh:
-    for x in countdown(rowHigh, 0):
-        let digit = digit(x + 1, y)
-        let highest = view(x + 1, y).right
+var visibleTrees = 0
+var bestScenicScore = -1
 
-        views[y][x].right = max(digit, highest)
+for y in 0 ..< height:
+    var viewsByHeight: array[0 .. 9, int]
 
-# down -> up
-for x in 0 .. rowHigh:
-    for y in countdown(colHigh, 0):
-        let digit = digit(x, y + 1)
-        let highest = view(x, y + 1).down
+    for x in 0 ..< width:
+        let digit = digit(x, y)
 
-        views[y][x].down = max(digit, highest)
+        visibilities[0][y][x] = viewsByHeight[digit]
 
-# up -> down
-for x in 0 .. rowHigh:
-    for y in 0 .. colHigh:
-        let digit = digit(x, y - 1)
-        let highest = view(x, y - 1).up
+        viewsByHeight.set(0 .. digit, 0)
+        viewsByHeight.inc((digit + 1) .. 9, 1)
 
-        views[y][x].up = max(digit, highest)
+    viewsByHeight.set(0 .. 9, 0)
 
-        # check visibility
-        let d = digit(x, y)
-        let view = views[y][x]
+    for x in countdown(width - 1, 0):
+        let digit = digit(x, y)
 
-        # trees with zero height and a path of zero height count as visible, annoyingly
-        if d > view.left or (d == view.left and d == 0):
-            views[y][x].visible = true
-        if d > view.right or (d == view.right and d == 0):
-            views[y][x].visible = true
-        if d > view.down or (d == view.down and d == 0):
-            views[y][x].visible = true
-        if d > view.up or (d == view.up and d == 0):
-            views[y][x].visible = true
+        visibilities[1][y][x] = viewsByHeight[digit]
 
-var totalVisible = 0
+        viewsByHeight.set(0 .. digit, 0)
+        viewsByHeight.inc((digit + 1) .. 9, 1)
 
-for y in 0 .. colHigh:
-    for x in 0 .. rowHigh:
-        if views[y][x].visible:
-            stdout.write "X"
-            totalVisible += 1
-        else:
-            stdout.write " "
+for x in 0 ..< width:
+    var viewsByHeight: array[0 .. 9, int]
 
-    stdout.write "\n"
+    for y in 0 ..< height:
+        let digit = digit(x, y)
 
-echo "in total: ", totalVisible
+        visibilities[2][y][x] = viewsByHeight[digit]
+
+        viewsByHeight.set(0 .. digit, 0)
+        viewsByHeight.inc((digit + 1) .. 9, 1)
+
+    viewsByHeight.set(0 .. 9, 0)
+
+    for y in countdown(height - 1, 0):
+        let digit = digit(x, y)
+
+        visibilities[3][y][x] = viewsByHeight[digit]
+
+        viewsByHeight.set(0 .. digit, 0)
+        viewsByHeight.inc((digit + 1) .. 9, 1)
+
+for x in 0 ..< width:
+    for y in 0 ..< height:
+        let left  = visibilities[0][y][x]
+        let right = visibilities[1][y][x]
+        let up    = visibilities[2][y][x]
+        let down  = visibilities[3][y][x]
+
+        if left == x or up == y or right == (width - x - 1) or down == (height - y - 1):
+            visibleTrees += 1
+
+        let scenicScore = left * right * up * down
+
+        if scenicScore > bestScenicScore:
+            bestScenicScore = scenicScore
+
+echo "visible trees: ", visibleTrees
+echo "best scenic score: ", bestScenicScore
