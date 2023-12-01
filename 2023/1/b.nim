@@ -27,54 +27,65 @@ let revIntMap = toTable(zip(revNumbers, toSeq(1 .. 9)))
 let nrmTrie = buildTrie(nrmNumbers)
 let revTrie = buildTrie(revNumbers)
 
-var sum = 0
-
-proc processChar(
-    multiplier: int,
-    intMap: Table[string, int],
-    numTrie: Trie,
-    branches: var seq[Trie],
-    buffers: var seq[string],
-    sum: var int,
-    c: char
-): bool {.inline.} =
-    if c in '1' .. '9':
-        sum += multiplier * (ord(c) - ord('0'))
-        return true
-
-    if c in numTrie.keys:
-        branches.add(numTrie)
-        buffers.add("")
-
-    var i = 0
-    while i < branches.len:
-        buffers[i] &= $c
-
-        if buffers[i] in intMap:
-            sum += multiplier * intMap[buffers[i]]
-            return true
-        elif c in branches[i].keys:
-            branches[i] = branches[i].keys[c]
-        else:
-            branches.delete(i)
-            buffers.delete(i)
-            continue
-
-        i += 1
+var first, last = 0
 
 for line in text.split("\n"):
-    var branches: seq[Trie]
-    var buffers: seq[string]
+    block findFirst:
+        var i = 0
+        while i < line.len:
+            let c = line[i]
 
-    for c in line:
-        if processChar(10, nrmIntMap, nrmTrie, branches, buffers, sum, c):
-            break
+            if c in '1' .. '9':
+                first += ord(c) - ord('0')
+                break findFirst
+            elif c in nrmTrie.keys:
+                var branch = nrmTrie.keys[c]
+                var buffer = $c
 
-    branches = @[]
-    buffers = @[]
-    
-    for i in countdown(line.high, 0):
-        if processChar(1, revIntMap, revTrie, branches, buffers, sum, line[i]):
-            break
+                var j = i + 1
+                while j < line.len:
+                    let d = line[j]
 
-echo sum
+                    if d notin branch.keys:
+                        break
+
+                    branch = branch.keys[d]
+                    buffer &= $d
+
+                    if branch.keys.len == 0:
+                        first += nrmIntMap[buffer]
+                        break findFirst
+
+                    j += 1
+            i += 1
+
+    block findLast:
+        var i = line.high
+        while i >= 0:
+            let c = line[i]
+
+            if c in '1' .. '9':
+                last += ord(c) - ord('0')
+                break findLast
+            elif c in revTrie.keys:
+                var branch = revTrie.keys[c]
+                var buffer = $c
+
+                var j = i - 1
+                while j >= 0:
+                    let d = line[j]
+
+                    if d notin branch.keys:
+                        break
+
+                    branch = branch.keys[d]
+                    buffer &= $d
+
+                    if branch.keys.len == 0:
+                        last += revIntMap[buffer]
+                        break findLast
+
+                    j -= 1
+            i -= 1
+
+echo first * 10 + last
