@@ -1,10 +1,10 @@
-import strutils, tables, algorithm, sequtils, strformat
+import strutils, tables, algorithm, sequtils
 
 type
     Trie = object
         keys: TableRef[char, Trie]
 
-proc buildTree(words: openArray[string]): Trie =
+proc buildTrie(words: openArray[string]): Trie =
     result.keys = newTable[char, Trie]()
 
     for word in words:
@@ -18,84 +18,63 @@ proc buildTree(words: openArray[string]): Trie =
 
 let text = readFile("input.txt")
 
-let numbers = [
-    "one",
-    "two",
-    "three",
-    "four",
-    "five",
-    "six",
-    "seven",
-    "eight",
-    "nine"
-]
+let nrmNumbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
+let revNumbers = nrmNumbers.mapIt(cast[string](it.reversed()))
 
-let revNumbers = numbers.mapIt(cast[string](it.reversed()))
+let nrmIntMap = toTable(zip(nrmNumbers, toSeq(1 .. 9)))
+let revIntMap = toTable(zip(revNumbers, toSeq(1 .. 9)))
 
-var intMap: Table[string, int]
-var revIntMap: Table[string, int]
-
-for i in 0 .. 8:
-    intMap[numbers[i]] = i + 1
-    revIntMap[revNumbers[i]] = i + 1
-
-let letters = buildTree(numbers)
-let revLetters = buildTree(revNumbers)
+let nrmTrie = buildTrie(nrmNumbers)
+let revTrie = buildTrie(revNumbers)
 
 var sum = 0
 
-var branch = letters
+proc processChar(
+    multiplier: int,
+    intMap: Table[string, int],
+    numTrie: Trie,
+    branches: var seq[Trie],
+    buffers: var seq[string],
+    sum: var int,
+    c: char
+): bool {.inline.} =
+    if c in '1' .. '9':
+        sum += multiplier * (ord(c) - ord('0'))
+        return true
 
-var buffer = ""
+    if c in numTrie.keys:
+        branches.add(numTrie)
+        buffers.add("")
+
+    var i = 0
+    while i < branches.len:
+        buffers[i] &= $c
+
+        if buffers[i] in intMap:
+            sum += multiplier * intMap[buffers[i]]
+            return true
+        elif c in branches[i].keys:
+            branches[i] = branches[i].keys[c]
+        else:
+            branches.delete(i)
+            buffers.delete(i)
+            continue
+
+        i += 1
 
 for line in text.split("\n"):
-    branch = letters
-    buffer = ""
-
-    echo line
+    var branches: seq[Trie]
+    var buffers: seq[string]
 
     for c in line:
-        if c in '1' .. '9':
-            sum += 10 * (ord(c) - ord('0'))
-            echo "first number: ", c
+        if processChar(10, nrmIntMap, nrmTrie, branches, buffers, sum, c):
             break
 
-        buffer &= $c
-
-        if buffer in intMap:
-            sum += 10 * intMap[buffer]
-            echo "first number: ", buffer
-            break
-        elif c in branch.keys:
-            branch = branch.keys[c]
-        elif c in letters.keys:
-            branch = letters.keys[c]
-            buffer = $c
-
-    branch = revLetters
-    buffer = ""
+    branches = @[]
+    buffers = @[]
     
-    var i = line.high
-    while i > -1:
-        let c = line[i]
-
-        if c in '1' .. '9':
-            sum += ord(c) - ord('0')
-            echo "last number: ", c
+    for i in countdown(line.high, 0):
+        if processChar(1, revIntMap, revTrie, branches, buffers, sum, line[i]):
             break
-
-        buffer &= $c
-
-        if buffer in revIntMap:
-            sum += revIntMap[buffer]
-            echo "last number: ", buffer
-            break
-        elif c in branch.keys:
-            branch = branch.keys[c]
-        elif c in revLetters.keys:
-            branch = revLetters.keys[c]
-            buffer = $c
-
-        i -= 1
 
 echo sum
