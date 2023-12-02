@@ -1,17 +1,18 @@
 import strutils
 
-let text = readFile("input.txt")
-var sum = 0
+proc run*(text: string): int =
+    var first = 0
+    var last = 0
 
-for line in text.split("\n"):
-  for c in line:
-    if c in '1' .. '9':
-      sum += 10 * (ord(c) - ord('0'))
-      break
-  
-  for i in countdown(line.high, 0):
-    if line[i] in '1' .. '9':
-      sum += ord(line[i]) - ord('0')
-      break
+    for line in text.split("\n"):
+      for c in line:
+        if int(c) <= int('9'):
+          first += int(c) - int('0')
+          break
 
-echo sum
+      for i in countdown(line.high, 0):
+        if int(line[i]) <= int('9'):
+          last += int(line[i]) - int('0')
+          break
+
+    return first * 10 + last
