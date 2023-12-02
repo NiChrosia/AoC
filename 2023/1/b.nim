@@ -1,28 +1,30 @@
-import strutils, tables, algorithm, sequtils
-
-type
-    Trie = object
-        keys: TableRef[char, Trie]
-
-proc buildTrie(words: openArray[string]): Trie =
-    result.keys = newTable[char, Trie]()
-
-    for word in words:
-        var branch = result
-
-        for c in word:
-            if c notin branch.keys:
-                branch.keys[c] = Trie(keys: newTable[char, Trie]())
-
-            branch = branch.keys[c]
-
-let text = readFile("input.txt")
+import strutils, algorithm, sequtils
 
 let nrmNumbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 let revNumbers = nrmNumbers.mapIt(cast[string](it.reversed()))
 
-let nrmIntMap = toTable(zip(nrmNumbers, toSeq(1 .. 9)))
-let revIntMap = toTable(zip(revNumbers, toSeq(1 .. 9)))
+proc buildTrie(words: openArray[string]): seq[int] =
+    result.setLen(26)
+
+    for i in 0 .. words.high:
+        let word = words[i]
+        var pos = 0
+
+        for j in 0 .. word.high - 1:
+            let c = word[j]
+
+            if result[pos + ord(c) - ord('a')] == 0:
+                let newPos = result.len
+                result.setLen(newPos + 26)
+
+                result[pos + ord(c) - ord('a')] = newPos
+                pos = newPos
+            else:
+                pos = result[pos + ord(c) - ord('a')]
+
+        result[pos + ord(word[^1]) - ord('a')] = -i - 1
+
+let text = readFile("input.txt")
 
 let nrmTrie = buildTrie(nrmNumbers)
 let revTrie = buildTrie(revNumbers)
@@ -36,24 +38,24 @@ for line in text.split("\n"):
             let c = line[i]
 
             if c in '1' .. '9':
-                first += ord(c) - ord('0')
+                first += int(c)
                 break findFirst
-            elif c in nrmTrie.keys:
-                var branch = nrmTrie.keys[c]
+            elif nrmTrie[ord(c) - ord('a')] != 0:
+                var pos = nrmTrie[ord(c) - ord('a')]
                 var buffer = $c
 
                 var j = i + 1
                 while j < line.len:
                     let d = line[j]
 
-                    if d notin branch.keys:
+                    if d notin 'a' .. 'z' or nrmTrie[pos + ord(d) - ord('a')] == 0:
                         break
 
-                    branch = branch.keys[d]
+                    pos = nrmTrie[pos + ord(d) - ord('a')]
                     buffer &= $d
 
-                    if branch.keys.len == 0:
-                        first += nrmIntMap[buffer]
+                    if pos < 0:
+                        first -= pos
                         break findFirst
 
                     j += 1
@@ -65,24 +67,24 @@ for line in text.split("\n"):
             let c = line[i]
 
             if c in '1' .. '9':
-                last += ord(c) - ord('0')
+                last += int(c)
                 break findLast
-            elif c in revTrie.keys:
-                var branch = revTrie.keys[c]
+            elif revTrie[ord(c) - ord('a')] != 0:
+                var pos = revTrie[ord(c) - ord('a')]
                 var buffer = $c
 
                 var j = i - 1
                 while j >= 0:
                     let d = line[j]
 
-                    if d notin branch.keys:
+                    if d notin 'a' .. 'z' or revTrie[pos + ord(d) - ord('a')] == 0:
                         break
 
-                    branch = branch.keys[d]
+                    pos = revTrie[pos + ord(d) - ord('a')]
                     buffer &= $d
 
-                    if branch.keys.len == 0:
-                        last += revIntMap[buffer]
+                    if pos < 0:
+                        last -= pos
                         break findLast
 
                     j -= 1
