@@ -8,22 +8,35 @@ var first = 0
 var last = 0
 
 for line in input.split("\n"):
-    var mutLine = line
-
     block findFirst:
-        while mutLine.len > 0:
-            if int(mutLine[0]) <= int('9'):
-                first += int(mutLine[0]) - int('0')
+        var lineIndex = -1
+        var lineAddr: ptr char
+        var lineArr: array[100, char]
+
+        while lineIndex < line.high:
+            lineIndex += 1
+            lineAddr = addr line[lineIndex]
+            lineArr = cast[array[100, char]](lineAddr)
+
+            if int(lineArr[0]) <= int('9'):
+                first += int(lineArr[0]) - int('0')
                 break findFirst
 
             for i in 0 .. numbers.high:
-                if mutLine.startsWith(numbers[i]):
+                if numbers[i].len > line.high - lineIndex:
+                    continue
+
+                var starts = true
+                for j in 0 .. numbers[i].high:
+                    if lineArr[j] != numbers[i][j]:
+                        starts = false
+                        break
+
+                if starts:
                     first += i + 1
                     break findFirst
 
-            mutLine = mutLine[1 .. ^1]
-
-    mutLine = line
+    var mutLine = line
 
     block findLast:
         while mutLine.len > 0:
@@ -36,6 +49,6 @@ for line in input.split("\n"):
                     last += i + 1
                     break findLast
 
-            mutLine = mutLine[0 .. ^2]
+            mutLine.setLen(mutLine.len - 1)
 
 echo first * 10 + last
