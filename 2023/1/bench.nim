@@ -16,18 +16,18 @@ proc bench(text: string, iters, longest: int, name: string, callback: proc(text:
     let s = duration.inSeconds
 
     let padding = " ".repeat(longest - name.len)
-    var text = fmt"{name} time: {padding}"
+    var timing = fmt"{name} time: {padding}"
 
     if s > 0 and s < 1000:
-        text &= fmt"{s}s {ms mod 1000}ms"
+        timing &= fmt"{s}s {ms mod 1000}ms"
     if ms > 0 and ms < 1000:
-        text &= fmt"{ms}ms {us mod 1000}μs"
+        timing &= fmt"{ms}ms {us mod 1000}μs"
     if us > 0 and us < 1000:
-        text &= fmt"{us}μs {ns mod 1000}ns"
+        timing &= fmt"{us}μs {ns mod 1000}ns"
     if ns > 0 and ns < 1000:
-        text &= fmt"{ns}ns "
+        timing &= fmt"{ns}ns "
 
-    echo text
+    echo timing
 
 let text = readFile("input.txt")
 
